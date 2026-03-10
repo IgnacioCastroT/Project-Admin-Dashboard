@@ -1,7 +1,8 @@
 # Admin Dashboard
 
 A responsive admin dashboard built with HTML and CSS as part of [The Odin Project](https://www.theodinproject.com/) Intermediate HTML and CSS course.
--[Ver page aqui](https://ignaciocastrot.github.io/Project-Admin-Dashboard/)
+
+- [Ver page aqui](https://ignaciocastrot.github.io/Project-Admin-Dashboard/)
 
 ## About
 
